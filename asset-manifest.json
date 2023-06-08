@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/krukkrzysztof/static/css/main.36ee7500.css",
-    "main.js": "/krukkrzysztof/static/js/main.d7ac8df5.js",
+    "main.js": "/krukkrzysztof/static/js/main.c7fa7ed5.js",
     "static/js/787.b1871894.chunk.js": "/krukkrzysztof/static/js/787.b1871894.chunk.js",
     "static/media/face.jpeg": "/krukkrzysztof/static/media/face.992f0dd6f1cc4d39339f.jpeg",
     "index.html": "/krukkrzysztof/index.html",
     "main.36ee7500.css.map": "/krukkrzysztof/static/css/main.36ee7500.css.map",
-    "main.d7ac8df5.js.map": "/krukkrzysztof/static/js/main.d7ac8df5.js.map",
+    "main.c7fa7ed5.js.map": "/krukkrzysztof/static/js/main.c7fa7ed5.js.map",
     "787.b1871894.chunk.js.map": "/krukkrzysztof/static/js/787.b1871894.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36ee7500.css",
-    "static/js/main.d7ac8df5.js"
+    "static/js/main.c7fa7ed5.js"
   ]
 }
