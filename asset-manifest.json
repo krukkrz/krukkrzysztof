@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/krukkrzysztof.pl/static/css/main.36ee7500.css",
-    "main.js": "/krukkrzysztof.pl/static/js/main.b1744896.js",
-    "static/js/787.b1871894.chunk.js": "/krukkrzysztof.pl/static/js/787.b1871894.chunk.js",
-    "static/media/face.jpeg": "/krukkrzysztof.pl/static/media/face.992f0dd6f1cc4d39339f.jpeg",
-    "index.html": "/krukkrzysztof.pl/index.html",
-    "main.36ee7500.css.map": "/krukkrzysztof.pl/static/css/main.36ee7500.css.map",
-    "main.b1744896.js.map": "/krukkrzysztof.pl/static/js/main.b1744896.js.map",
-    "787.b1871894.chunk.js.map": "/krukkrzysztof.pl/static/js/787.b1871894.chunk.js.map"
+    "main.css": "/static/css/main.36ee7500.css",
+    "main.js": "/static/js/main.aea17d76.js",
+    "static/js/787.b1871894.chunk.js": "/static/js/787.b1871894.chunk.js",
+    "static/media/face.jpeg": "/static/media/face.992f0dd6f1cc4d39339f.jpeg",
+    "index.html": "/index.html",
+    "main.36ee7500.css.map": "/static/css/main.36ee7500.css.map",
+    "main.aea17d76.js.map": "/static/js/main.aea17d76.js.map",
+    "787.b1871894.chunk.js.map": "/static/js/787.b1871894.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36ee7500.css",
-    "static/js/main.b1744896.js"
+    "static/js/main.aea17d76.js"
   ]
 }
