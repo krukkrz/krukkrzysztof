@@ -33,12 +33,12 @@ const Contact = () => {
             <List channels={[
                 {
                     name: 'github',
-                    details: 'github.com/krukkrz',
+                    details: 'https://github.com/krukkrz',
                     href: 'github.com/krukkrz'
                 },
                 {
                     name: 'medium',
-                    details: 'medium.com/@krzysztof-t-kruk',
+                    details: 'https://medium.com/@krzysztof-t-kruk',
                     href: 'medium.com/@krzysztof-t-kruk'
                 },
                 {
