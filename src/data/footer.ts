@@ -1,0 +1,1 @@
+export const footerText = 'I hereby consent to my personal data being processed for the purpose of considering my application for the vacancy.'
