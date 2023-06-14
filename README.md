@@ -1,0 +1,4 @@
+# Deploy
+```
+npm run deploy
+```
