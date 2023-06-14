@@ -13,9 +13,10 @@ export const jobs: JobProps[] = [
       to: 'now',
       role: 'Golang Software Engineer',
       responsibilites: [
-        'Development and maintenance of Samsara public API.',
-        'Development and maintenance of Samsara microservices: Go, ReactJS, Typescript, AWS, GraphQL, SQS, gRPC.',
-        'Writing RFC documentation (technical requirements).'
+        'Develop and maintain Samsara public API.',
+        'Develop and maintain Samsara microservices utilizing a stack that includes Go, ReactJS, Typescript, AWS, GraphQL, SQS, and gRPC.',
+        'Maintain a regular on-call shift to provide support during occasional outages.',
+        'Write RFC documentation (technical requirements).'
       ]
     },
     {
